@@ -2,25 +2,24 @@
 
 ## Stamoplysninger
 
-Navn: Dennis Iversen
-Adresse: Tordenskjoldsgade 2, 1th.
+Navn: Dennis Iversen 
+Adresse: Tordenskjoldsgade 2, 1th. 
 Postnr: 8700 
-By: Horsens
-Tlf.: 40854015
-E-mail: dennis.iversen@gmail.com
-Hjemmeside: <http://www.os-cms.net>
-Født: 25-02-1972
-Civil status: Single, ingen børn.
+By: Horsens 
+Tlf.: 40854015 
+E-mail: dennis.iversen@gmail.com 
+Hjemmeside: <http://www.os-cms.net> 
+Født: 25-02-1972 
+Civil status: Single, ingen børn. 
 
 ## Erhvervserfaring
 
-2012-2014  Bookholiday.com (senere sweetpoints.dk)
-2010-2012. Århus Kommune. IT administrator ved Børn og Unge
-Horsensvej
-2007-2009. Rengøring ved Århus Kommune
-2005-2006. Anlægsgartner ved Ingolf Rasmussen
-2004-2005  Arbejde ved webbook.dk
-2003-2004. Selvstændig freelance Programmør for bl.a. <http://www.pil.dk>
+2012-2014  Bookholiday.com (senere sweetpoints.dk) 
+2010-2012. Århus Kommune. IT administrator ved Børn og Unge Horsensvej 
+2007-2009. Rengøring ved Århus Kommune 
+2005-2006. Anlægsgartner ved Ingolf Rasmussen 
+2004-2005  Arbejde ved webbook.dk 
+2003-2004. Selvstændig freelance Programmør for bl.a. <http://www.pil.dk> 
 
 ## Uddannelse
 
