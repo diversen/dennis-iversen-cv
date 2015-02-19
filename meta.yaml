@@ -15,6 +15,7 @@ format-arguments:
     epub: -S --epub-chapter-level=3 --number-sections --toc 
     mobi: ok
 ignore-files: 
-    - README.md
+- README.md
+
 ...
 
