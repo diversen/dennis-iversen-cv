@@ -7,7 +7,7 @@
 * Postnr: 8700
 * By: Horsens
 * Tlf.: 40854015
-* E-mail: dennis.iversen@gmail.com
+* E-mail: <dennis.iversen@gmail.com>
 * Hjemmeside: <http://www.os-cms.net>
 * Født: 25-02-1972
 * Civil status: Single, ingen børn.
@@ -42,7 +42,7 @@
 * Desktop programmer (MS Office, Open Office) (10 år >)
 * Diverse: SEO, Oauth API, Facebook API, google APIs, openid API
 
-## Udvalgte IT projekter
+## Udvalgte IT projekter / Referencer
 
 En stor del Open source kode placeret på:
 
@@ -79,24 +79,25 @@ Modul eksempler og templates se:
 
 Et website for en cocktailbar i Århus (Wordpress):
 
-<http://www.herrbartels.dk>
+* <http://www.herrbartels.dk>
 
-For <http://www.webbook.dk>:
-<http://www.santax.com/>
+For www.webbook.dk:
 
-For <http://www.pil.dk>:
+* <http://www.santax.com/>
+
+For www.pil.dk:
+
+* <http://www.ask-alex.dk> 
 
 CMS. Jeg programmerede artikel editor, bannerstyrings sytem, kategori styrings system samt meget andet.  Sitet er nu solgt videre eller gået fallit. 
 
-<http://www.ask-alex.dk> 
-
 For http://www.kode2.com (firma eksisterer ikke længere). Et simpelt intranet CRM system
 
-Et simpelt Drupal hosting system (5.x,6.x, 7.x): 
+Desuden: Et simpelt Drupal hosting system (5.x,6.x, 7.x): 
 
-<http://drupal.org/project/densite>. 
+* <http://drupal.org/project/densite>. 
 
 Kildekode findes på: 
 
-<http://github.com/diversen/densite>
+* <http://github.com/diversen/densite>
 
