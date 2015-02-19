@@ -1,3 +1,3 @@
 # dennis-iversen-cv
 
-Se <cv.md>
+Se <./cv.md>
