@@ -1,8 +1,9 @@
 ---
 title: 'Dennis Iversens CV '
+Subtitle: 'Dennis Iversens online CV i Mobi, Epub, Pdf format'
 subject: Dennis Iversens CV
 author:
-- Dennis Bæk Iversen
+- Dennis Iversen
 keywords: dennis iversen, cv, job, programmør
 rights: Creative Commons Non-Commercial Share Alike 3.0
 language: da-DK
@@ -16,6 +17,5 @@ format-arguments:
     mobi: ok
 ignore-files: 
 - README.md
-
 ...
 
