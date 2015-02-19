@@ -87,7 +87,7 @@ For www.webbook.dk:
 
 For www.pil.dk:
 
-* <http://www.ask-alex.dk> 
+* www.ask-alex.dk (sitet eksisterer ikke længere) 
 
 CMS. Jeg programmerede artikel editor, bannerstyrings sytem, kategori styrings system samt meget andet.  Sitet er nu solgt videre eller gået fallit. 
 
