@@ -1,3 +1,3 @@
 # dennis-iversen-cv
 
-Se <./cv.md>
+<https://github.com/diversen/dennis-iversen-cv/blob/master/cv.md>
