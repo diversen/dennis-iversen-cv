@@ -16,7 +16,7 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 
 ## Erhvervserfaring
 
-* 2012-2014  Bookholiday.com (senere sweetpoints)
+* 2012-2014  Book-holiday.com (senere sweetpoints)
 * 2010-2012. Århus Kommune. IT administrator ved Børn og Unge Horsensvej
 * 2007-2009. Rengøring ved Århus Kommune
 * 2005-2006. Anlægsgartner ved Ingolf Rasmussen
