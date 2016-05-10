@@ -2,6 +2,10 @@
 
 Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/dennis-iversen-cv.pdf>. MOBI: <http://gittobook.org/downloads/49/dennis-iversen-cv.mobi>. EPUB: <http://gittobook.org/downloads/49/dennis-iversen-cv.epub>. Det kan ligeledes ses som HTML: <http://gittobook.org/books/49/dennis-iversen-cv>
 
+## Foto 
+
+![title](.foto.jpg)
+
 ## Stamoplysninger
 
 * Navn: Dennis Iversen

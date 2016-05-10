@@ -9,7 +9,7 @@ rights: Creative Commons Non-Commercial Share Alike 3.0
 language: da-DK
 cover-image: "images/cover.png"
 lang: da
-date: '2015-01-27'
+date: '2016-05-10'
 format-arguments:
     pdf: -S --number-sections 
     html: -S --template=templates/default.html --toc-depth=3 --chapters --number-sections --toc
