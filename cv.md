@@ -34,7 +34,7 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 * Flydende i Engelsk og Dansk (skrift og tale)
 * Forstår Svensk og Norsk
 * Læser Tysk nogenlunde flydende
-* Meget lidt 0spansk
+* Meget lidt spansk
 
 ## IT-egenskaber
 
