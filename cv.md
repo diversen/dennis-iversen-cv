@@ -4,7 +4,7 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 
 ## Foto 
 
-![title](.foto.jpg)
+![title](foto.jpg)
 
 ## Stamoplysninger
 
