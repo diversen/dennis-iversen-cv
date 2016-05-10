@@ -16,6 +16,7 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 
 ## Erhvervserfaring
 
+* 2015-2016  Infogeist (<http://infogeist.dk>)
 * 2012-2014  Book-holiday.com (senere sweetpoints)
 * 2010-2012. Århus Kommune. IT administrator ved Børn og Unge Horsensvej
 * 2007-2009. Rengøring ved Århus Kommune
@@ -32,6 +33,8 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 
 * Flydende i Engelsk og Dansk (skrift og tale)
 * Forstår Svensk og Norsk
+* Læser Tysk nogenlunde flydende
+* Meget lidt 0spansk
 
 ## IT-egenskaber
 
@@ -39,6 +42,8 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 * Unix, Linux, Systemadministration Unix og Linux (10 år >)
 * Versionering: Git (foretrækker jeg), CVS  (10 år > )
 * Javascript, AJAX, Jquery (6 år > )
+* Moderne javascript: NodeJS, NPM, Electron (2 år > )
+* CSS frameworks: UIKit, bootstrap
 * Netbeans (7 år > )
 * Java, C, C++, Ruby, C# (1 år < )
 * Desktop programmer (MS Office, Open Office) (10 år >)
@@ -50,12 +55,22 @@ En stor del Open source kode placeret på:
 
 * <http://github.com/diversen>
 
+Ligeledes et par javascript pakker på <https://www.npmjs.com/~diversen>
+
+Nogle PHP pakker på packagist: <https://packagist.org/users/diversen/packages/>
+
+For infogeist: 
+
+* <https://smartpub.dk> Single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (APACHE, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup etc.   
+* Event-system til styring af danelse af lanciere-danse-par.  
+
+
 For book-holiday og sweetpoints.dk: 
 
 * <http://www.book-holiday.com>  
 * <http://www.sweetpoints.fi>  
 
-Kildekode indes på:
+Kildekode findes på:
 
 * <http://bitbucket.org/diversen>
 
