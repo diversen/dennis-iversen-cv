@@ -17,6 +17,5 @@ format-arguments:
     mobi: ok
 ignore-files: 
 - README.md 
-- cv-en.md
 ...
 
