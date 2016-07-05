@@ -57,13 +57,12 @@ En stor del Open source kode placeret på:
 
 Ligeledes et par javascript pakker på <https://www.npmjs.com/~diversen>
 
-Nogle PHP pakker på packagist: <https://packagist.org/users/diversen/packages/>
+PHP pakker på packagist: <https://packagist.org/users/diversen/packages/>
 
 For infogeist: 
 
-* <https://smartpub.dk> Single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (APACHE, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup etc.   
+* <https://smartpub.dk> Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (APACHE, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup etc.   
 * Event-system til styring af danelse af lanciere-danse-par.  
-
 
 For book-holiday og sweetpoints.dk: 
 
@@ -97,7 +96,7 @@ For www.pil.dk:
 
 * www.ask-alex.dk (sitet eksisterer ikke længere) 
 
-CMS. Jeg programmerede artikel editor, bannerstyrings sytem, kategori styrings system samt meget andet.  Sitet er nu solgt videre eller gået fallit. 
+CMS. Jeg programmerede artikel editor, bannerstyrings sytem, kategori styrings system samt meget andet.  Sitet er nu solgt videre. 
 
 For http://www.kode2.com (firma eksisterer ikke længere). Et simpelt intranet CRM system
 
