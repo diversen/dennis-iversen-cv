@@ -28,13 +28,13 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 ## Uddannelse
 
 * 2001-2002. Webpublisher (Jensens Bureau). Halvt års kursus i webdesign
-* 1996-2000. Bachelor i Dansk og Medievidenskab
+* 1996-2000. Universitets uddannelse i Dansk og Medievidenskab
 
 ## Sprog
 
 * Flydende i Engelsk og Dansk (skrift og tale)
 * Forstår Svensk og Norsk
-* Læser Tysk nogenlunde
+* Læser Tysk nogenlunde flydende
 * Meget lidt spansk
 
 ## IT-egenskaber
@@ -42,10 +42,11 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 * Programmering: PHP5, SQL, HTML, Javascript, CSS (10 år >)
 * Unix, Linux, Systemadministration Unix og Linux (10 år >)
 * Versionering: Git (foretrækker jeg), CVS  (10 år > )
-* AJAX, Jquery (6 år > )
+* Javascript, AJAX, Jquery (6 år > )
 * Moderne javascript: NodeJS, NPM, Electron (2 år > )
 * CSS frameworks: UIKit, bootstrap
 * Netbeans (7 år > )
+* Java, C, C++, Ruby, C# (1 år < )
 * Desktop programmer (MS Office, Open Office) (10 år >)
 * Diverse: SEO, Oauth API, Facebook API, google APIs, openid API
 
@@ -67,7 +68,8 @@ For infogeist:
 
 For book-holiday og sweetpoints.dk: 
 
-* Eksakte og komplekse søgninger af sommerhuse, etablering af API.  
+* <http://www.book-holiday.com>  
+* <http://www.sweetpoints.fi>  
 
 Kildekode findes på:
 
@@ -84,6 +86,14 @@ Derudover egne projekter:
 En online git repo til ebogs konverter 
 
 * <http://gittobook.org>
+
+(Dokumentation for CosCMS) skabt vha. mit CosCMS framework. 
+
+* <http://www.coscms.org>  
+
+Modul eksempler og templates se: 
+
+* <http://github.com/diversen>
 
 Et website for en cocktailbar i Århus (Wordpress):
 
