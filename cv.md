@@ -42,9 +42,10 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 * Programmering: PHP5, SQL, HTML, Javascript, CSS (10 år >)
 * Unix, Linux, Systemadministration Unix og Linux (10 år >)
 * Versionering: Git (foretrækker jeg), CVS  (10 år > )
-* AJAX, Jquery (6 år > )
-* Moderne javascript: NodeJS, NPM, Electron (2 år > )
-* CSS frameworks: UIKit, bootstrap
+* Browser JS: Jquery (6 år > )
+* Moderne JS: NodeJS, NPM, Electron (2 år > )
+* CSS frameworks: UIKit, bootstrap, milligram (2 år > )
+* CSS Værktøjer: LESS, SASS, SCSS (2 år > )
 * Netbeans (7 år > )
 * Desktop programmer (MS Office, Open Office) (10 år >)
 * Diverse: SEO, Oauth API, Facebook API, google APIs, openid API
