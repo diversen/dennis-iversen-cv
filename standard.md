@@ -1,3 +1,25 @@
+# Ansøgning
+
+Mine kompetencer, teknisk set, er en bred forståelse indenfor Open Source software som full-stack-udvikler. Jeg er mangeårig bruger af Linux, og jeg har stort kendskab til Linux som både server og arbejdsstation (særligt Ubuntu). Indenfor programmering er jeg ekspert indenfor web- og cli-udvikling: Værktøjerne er især PHP, SQL (primært MySQL - men jeg kan programmere til alle databaser). Desuden har jeg et stort kendskab til CSS, Javascript (særligt NodeJS og JQuery) - samt diverse biblioteker og framework indenfor javascript, CSS og PHP.
+
+Jeg sat ligeledes sat servere op for nuværende og tidligere arbejdsgivere. 
+
+Meget af min kildekode er Open Source, og den kan findes på <http://github.com/diversen/>.
+
+Desuden har jeg en del PHP-pakker på <https://packagist.org/users/diversen/packages/> samt enkelte Javascript-pakker på <https://www.npmjs.com/~diversen>
+
+Jeg har desuden et godt kendskab til diverse Open Source systemer, og vil ligeledes kunne programmere til ethvert framework (jeg har benyttet især Zend, Symfony og PEAR - samt dele af disse). 
+
+Jeg arbejder i øjeblikket for <http://infogeist.dk>, men da min chef er i tvivl om, hvorvidt firmaet vil kunne skaffe kapital nok til at betale min løb, så søger jeg nyt arbejde. 
+
+Jeg er praktisk anlagt og går efter at få tingene til at virke fejlfrit. Jeg er god til at styre og deltage i store projekter - særligt grundet kendskab til samt genbrug af open-source kilde-kode. Jeg har gode kommunikative egenskaber. Jeg har en uddannelse fra Aalborg Universitet i Dansk og Medievidenskab. Jeg har et godt humør og humor.
+
+Hvis ovenstående egenskaber mangles, så er jeg villig til at træde til.
+
+I er ligeledes velkommen til at gemme denne mail og vende tilbage, hvis I skulle være så heldige at finde en kandidat, som er bedre egnet end mig. Det skulle være, hvis I har et job, projekt, en kortere ansættelse, som kræver tid på et tidspunkt. Ligeledes må I gerne videresende denne email, hvis I har kontakter, som kan tænkes at mangle en profil med mine kvalifikationer.
+
+MVH Dennis Iversen
+
 # CV
 
 ## Stamoplysninger
@@ -39,7 +61,7 @@
 * Programmering: PHP5, SQL, HTML, Javascript, CSS (10 år >)
 * Unix, Linux, Systemadministration Unix og Linux (10 år >)
 * Versionering: Git (foretrækker jeg), CVS  (10 år > )
-* Browser JS: Jquery (10 år > )
+* Browser JS: Jquery (6 år > )
 * Moderne JS: NodeJS, NPM, Electron (2 år > )
 * CSS frameworks: UIKit, bootstrap, milligram (2 år > )
 * CSS Værktøjer: LESS, SASS, SCSS (2 år > )
@@ -59,15 +81,12 @@ PHP pakker på packagist: <https://packagist.org/users/diversen/packages/>
 
 For infogeist: 
 
-* smartpub <https://infogeist.smartpub.dk> Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup, søgning etc). 
-* Event-system til styring af danelse af lanciere-danse-par. 
-* <http://infogeist.dk> Jekyll-site
+* <https://smartpub.dk> Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (APACHE, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup etc.   
+* Event-system til styring af danelse af lanciere-danse-par.  
 
 For book-holiday og sweetpoints.dk: 
 
-* Eksakte og komplekse søgninger af sommerhuse, etablering af API. 
-* Vedligeholdelse af drupal multi-install samt programmering af simple drupal moduler 
-* Programmering af eget framework <https://github.com/diversen/coscms>
+* Eksakte og komplekse søgninger af sommerhuse, etablering af API.  
 
 Kildekode findes på:
 
