@@ -5,7 +5,7 @@ subject: Dennis Iversens CV
 author:
 - Dennis Iversen
 keywords: dennis iversen, cv, job, programmør
-rights: Creative Commons Non-Commercial Share Alike 3.0
+rights: MIT
 language: da-DK
 cover-image: "images/cover.png"
 lang: da
@@ -16,6 +16,7 @@ format-arguments:
     epub: -S --epub-chapter-level=3 --number-sections --toc 
     mobi: ok
 ignore-files: 
-- README.md 
+- README.md
+- standard.md
 ...
 
