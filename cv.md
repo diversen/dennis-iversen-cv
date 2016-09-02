@@ -9,6 +9,8 @@
 * Tlf.: 40854015
 * E-mail: <dennis.iversen@gmail.com>
 * Hjemmeside: <http://www.os-cms.net>
+* Github: <https://github.com/diversen>
+* Stackoverflow: <http://stackoverflow.com/users/464549/dennis>
 * Født: 25-02-1972
 * Civil status: Single, ingen børn.
 
