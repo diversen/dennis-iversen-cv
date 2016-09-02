@@ -61,7 +61,7 @@ PHP pakker på packagist: <https://packagist.org/users/diversen/packages/>
 
 For infogeist: 
 
-* smartpub <https://infogeist.smartpub.dk> Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup, søgning etc). 
+* smartpub <https://infogeist.smartpub.dk> Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup, søgning etc). For at læse om funktionerne i systemet kan man læse brugerguiden: <https://infogeist.smartpub.dk/content/export/view/29/html/Smartpub-brugerguide.html>
 * Event-system til styring af danelse af lanciere-danse-par. 
 * <http://infogeist.dk> Jekyll-site
 
