@@ -1,8 +1,5 @@
 # CV
 
-Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/dennis-iversen-cv.pdf>. MOBI: <http://gittobook.org/downloads/49/dennis-iversen-cv.mobi>. EPUB: <http://gittobook.org/downloads/49/dennis-iversen-cv.epub>. Det kan ligeledes ses som HTML: <http://gittobook.org/books/49/dennis-iversen-cv>
-
-
 ## Stamoplysninger
 
 * Navn: Dennis Iversen
@@ -18,11 +15,11 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 ## Erhvervserfaring
 
 * 2015-2016  Infogeist (<http://infogeist.dk>)
-* 2012-2014  Book-holiday.com (senere sweetpoints)
+* 2012-2014  Book-holiday (og sweetpoints)
 * 2010-2012. Århus Kommune. IT administrator ved Børn og Unge Horsensvej
 * 2007-2009. Rengøring ved Århus Kommune
 * 2005-2006. Anlægsgartner ved Ingolf Rasmussen
-* 2004-2005  Arbejde ved webbook.dk
+* 2004-2005  Arbejde ved webbook
 * 2003-2004. Selvstændig freelance Programmør for bl.a. <http://www.pil.dk>
 
 ## Uddannelse
@@ -48,13 +45,13 @@ Dette CV kan ligeledes downloads som PDF: <http://gittobook.org/downloads/49/den
 * CSS Værktøjer: LESS, SASS, SCSS (2 år > )
 * Netbeans (7 år > )
 * Desktop programmer (MS Office, Open Office) (10 år >)
-* Diverse: SEO, Oauth API, Facebook API, google APIs, openid API
+* Diverse: SEO, Oauth API, Facebook API, google APIs, openid API, SMTP 
 
 ## Udvalgte IT projekter / Referencer
 
 En stor del Open source kode placeret på:
 
-* <http://github.com/diversen>
+* <https://github.com/diversen>
 
 Ligeledes et par javascript pakker på <https://www.npmjs.com/~diversen>
 
@@ -73,7 +70,7 @@ Kildekode findes på:
 
 * <http://bitbucket.org/diversen>
 
-Det er alt sammen lukket kildekode, men  der er moduler til facebook, openid, betalings gateway (adyen), shop, threaded mail system (omtrent 50000 mails om dagen), kompliceret bounce parsing, invitations system (oauth og google), account (med over 65000 brugere - hvoraf omtrent 3000 var aktive dagligt), point system samt meget andet).
+Det er alt sammen lukket kildekode, men  der er moduler til facebook, openid, betalings gateway (adyen), shop, threaded mail system (omtrent 50000 mails om dagen), kompliceret bounce parsing, invitations system (oauth og google), account (med over 65000 brugere), point system samt meget andet).
 
 En del af modulerne er open source. Se:
 
@@ -93,13 +90,13 @@ For www.webbook.dk:
 
 * <http://www.santax.com/>
 
-For www.pil.dk:
+For <http://www.pil.dk>:
 
-* www.ask-alex.dk (sitet eksisterer ikke længere) 
+* ask-alex (Et Q&A site) 
 
 CMS. Jeg programmerede artikel editor, bannerstyrings sytem, kategori styrings system samt meget andet.  Sitet er nu solgt videre. 
 
-For http://www.kode2.com (firma eksisterer ikke længere). Et simpelt intranet CRM system
+For kode2. Et simpelt intranet CRM system
 
 Desuden: Et simpelt Drupal hosting system (5.x,6.x, 7.x): 
 
