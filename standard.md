@@ -31,6 +31,8 @@ MVH Dennis Iversen
 * Tlf.: 40854015
 * E-mail: <dennis.iversen@gmail.com>
 * Hjemmeside: <http://www.os-cms.net>
+* Github: <https://github.com/diversen>
+* Stackoverflow: <http://stackoverflow.com/users/464549/dennis>
 * Født: 25-02-1972
 * Civil status: Single, ingen børn.
 
@@ -61,7 +63,7 @@ MVH Dennis Iversen
 * Programmering: PHP5, SQL, HTML, Javascript, CSS (10 år >)
 * Unix, Linux, Systemadministration Unix og Linux (10 år >)
 * Versionering: Git (foretrækker jeg), CVS  (10 år > )
-* Browser JS: Jquery (6 år > )
+* Browser JS: Jquery (10 år > )
 * Moderne JS: NodeJS, NPM, Electron (2 år > )
 * CSS frameworks: UIKit, bootstrap, milligram (2 år > )
 * CSS Værktøjer: LESS, SASS, SCSS (2 år > )
@@ -81,12 +83,15 @@ PHP pakker på packagist: <https://packagist.org/users/diversen/packages/>
 
 For infogeist: 
 
-* <https://smartpub.dk> Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (APACHE, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup etc.   
-* Event-system til styring af danelse af lanciere-danse-par.  
+* smartpub <https://infogeist.smartpub.dk> Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup, søgning etc). For at læse om funktionerne i systemet kan man læse brugerguiden: <https://infogeist.smartpub.dk/content/export/view/29/html/Smartpub-brugerguide.html>
+* Event-system til styring af danelse af lanciere-danse-par. 
+* <http://infogeist.dk> Jekyll-site
 
 For book-holiday og sweetpoints.dk: 
 
-* Eksakte og komplekse søgninger af sommerhuse, etablering af API.  
+* Eksakte og komplekse søgninger af sommerhuse, etablering af API. 
+* Vedligeholdelse af drupal multi-install samt programmering af simple drupal moduler 
+* Programmering af eget framework <https://github.com/diversen/coscms>
 
 Kildekode findes på:
 
