@@ -16,11 +16,11 @@
 
 ## Erhvervserfaring
 
+* 2017-2018  Sharksmedia (https://sharksmedia.dk)
 * 2015-2016  Infogeist (http://infogeist.dk)
 * 2012-2014  Book-holiday (og sweetpoints)
 * 2010-2012. Århus Kommune. IT administrator ved Børn og Unge Horsensvej
-* 2007-2009. Rengøring ved Århus Kommune
-* 2005-2006. Anlægsgartner ved Ingolf Rasmussen
+* 2005-2009. Arbejde ikke relateret til IT (Håndværk og andet)
 * 2004-2005  Arbejde ved webbook
 * 2003-2004. Selvstændig freelance Programmør for bl.a. http://www.pil.dk
 
@@ -32,82 +32,72 @@
 ## Sprog
 
 * Flydende i Engelsk og Dansk (skrift og tale)
-* Forstår Svensk og Norsk
-* Læser Tysk nogenlunde
-* Meget lidt spansk
+* Forstår Tysk, Svensk og Norsk
 
 ## IT-egenskaber
 
 * Programmering: PHP5, SQL, HTML, Javascript, CSS (10 år >)
 * Unix, Linux, Systemadministration Unix og Linux (10 år >)
 * Versionering: Git (foretrækker jeg), CVS  (10 år > )
-* Browser JS: Jquery (10 år > )
-* Moderne JS: NodeJS, NPM, Electron (2 år > )
-* CSS frameworks: UIKit, bootstrap, milligram (2 år > )
+* Browser JS: Javscript, Jquery (10 år > )
+* Moderne JS: ES5, ES6, NodeJS, NPM, Electron, Puppeteer (5 år > )
+* CSS frameworks: UIKit, bootstrap, milligram (5 år > )
 * CSS Værktøjer: LESS, SASS, SCSS (2 år > )
-* Netbeans (10 år > )
-* Desktop programmer (MS Office, Open Office) (10 år >)
-* Diverse: SEO, Oauth API, Facebook API, google APIs, openid API, SMTP 
+* Netbeans, VS-code (10 år > )
+* Desktop programmer (MS Office, Open Office) (10 år >) 
 
 ## Udvalgte IT projekter / Referencer
 
-En stor del Open source kode placeret på:
+For sharksmedia: 
+----------------
 
-* https://github.com/diversen
-
-Ligeledes et par javascript pakker på https://www.npmjs.com/~diversen
-
-PHP pakker på packagist: https://packagist.org/users/diversen/packages/
+* PHP og javascript programmering. Mange projekter for større kunder. 
+Se https://sharksmedia.dk for et overblik over projekter.
 
 For infogeist: 
+--------------
 
 * smartpub (https://infogeist.smartpub.dk) Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup, søgning etc). For at læse om funktionerne i systemet kan man læse brugerguiden: https://infogeist.smartpub.dk/content/export/view/29/html/Smartpub-brugerguide.html
 * Event-system til styring af danelse af lanciere-danse-par. 
 * http://infogeist.dk Jekyll-site
 
 For book-holiday og sweetpoints.dk: 
+-----------------------------------
 
 * Eksakte og komplekse søgninger af sommerhuse, etablering af API. 
 * Vedligeholdelse af drupal multi-install samt programmering af simple drupal moduler 
 * Programmering af eget framework https://github.com/diversen/coscms
 
-Kildekode findes på:
+Egne projekter: 
+---------------
 
-* http://bitbucket.org/diversen
+github
+------
 
-Det er alt sammen lukket kildekode, men  der er moduler til facebook, openid, betalings gateway (adyen), shop, threaded mail system (omtrent 50000 mails om dagen), kompliceret bounce parsing, invitations system (oauth og google), account (med over 65000 brugere), point system samt meget andet).
+https://github.com/diversen
 
-En del af modulerne er open source. Se:
+npm:
+---
 
-* https://github.com/diversen
+https://www.npmjs.com/~diversen
 
-Derudover egne projekter:
+packagist:
+----------
 
-En online git repo til ebogs konverter 
+https://packagist.org/users/diversen/packages/
 
-* https://gittobook.org
 
-Et website for en cocktailbar i Århus (Wordpress):
+Divsere projekter:
+----------------------- 
 
-* http://www.herrbartels.dk
+* Emulering af hack computeren i Javascript: 
+(Fuldstændg emulering af CPU, ALU, RAM, ROM, skærm og keyboard i Javascript)
 
-For www.webbook.dk:
+https://github.com/diversen/hack-emulator-js
 
-* http://www.santax.com/
+Du kan tage et spil 'pong'
 
-For http://www.pil.dk:
+* Euler project
 
-* ask-alex (Et Q&A site) 
-
-CMS. Jeg programmerede artikel editor, bannerstyrings sytem, kategori styrings system samt meget andet.  Sitet er nu solgt videre. 
-
-For kode2. Et simpelt intranet CRM system
-
-Desuden: Et simpelt Drupal hosting system (5.x,6.x, 7.x): 
-
-* http://drupal.org/project/densite. 
-
-Kildekode findes på: 
-
-* https://github.com/diversen/densite
-
+Matematiske og logiske problem-stillinger indenfor især tal-teori:
+(Alt er skrevet i Javascript)
