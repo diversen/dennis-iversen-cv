@@ -16,7 +16,7 @@
 
 ## Erhvervserfaring
 
-* 2017-2018  Sharksmedia (https://sharksmedia.dk)
+* 2017-2019  Sharksmedia (https://sharksmedia.dk)
 * 2015-2016  Infogeist (http://infogeist.dk)
 * 2012-2014  Book-holiday (og sweetpoints)
 * 2010-2012. Århus Kommune. IT administrator ved Børn og Unge Horsensvej
@@ -36,15 +36,17 @@
 
 ## IT-egenskaber
 
-* Programmering: PHP5, SQL, HTML, Javascript, CSS (10 år >)
+* Programmering: PHP, SQL, HTML, Javascript, CSS (10 år >)
 * Unix, Linux, Systemadministration Unix og Linux (10 år >)
 * Versionering: Git (foretrækker jeg), CVS  (10 år > )
 * Browser JS: Javscript, Jquery (10 år > )
-* Moderne JS: ES5, ES6, NodeJS, NPM, Electron, Puppeteer (5 år > )
+* Moderne JS: ES5, ES6, NodeJS, NPM, Electron, Puppeteerl Cordova (5 år > )
+* Mobil App udvikling i Cordova > 3 år
 * CSS frameworks: UIKit, bootstrap, milligram (5 år > )
 * CSS Værktøjer: LESS, SASS, SCSS (2 år > )
 * Netbeans, VS-code (10 år > )
 * Desktop programmer (MS Office, Open Office) (10 år >) 
+* OS: Linux, OSX, Windows
 
 ## Udvalgte IT projekter / Referencer
 
@@ -58,7 +60,7 @@ For infogeist:
 --------------
 
 * smartpub (https://infogeist.smartpub.dk) Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup, søgning etc). For at læse om funktionerne i systemet kan man læse brugerguiden: https://infogeist.smartpub.dk/content/export/view/29/html/Smartpub-brugerguide.html
-* Event-system til styring af danelse af lanciere-danse-par. 
+
 * http://infogeist.dk Jekyll-site
 
 For book-holiday og sweetpoints.dk: 
