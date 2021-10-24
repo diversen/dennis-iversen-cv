@@ -40,7 +40,7 @@ Kaggle (ML)
 
 [Intro to Machine Learning](https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning)
 
-2020: Deeplearning.ai
+* 2020: Deeplearning.ai
 
 [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/KPLLNCBGESXM)
 
@@ -48,7 +48,7 @@ Kaggle (ML)
 
 [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/85XNXYDMWMAF)
 
-2017: 
+* 2017: 
 
 [Build a Modern Computer from First Principles](https://www.coursera.org/account/accomplishments/certificate/J3F7TS824X96)
 

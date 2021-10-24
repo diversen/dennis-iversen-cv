@@ -39,7 +39,7 @@ MVH Dennis Iversen
 * Khan academy: https://www.khanacademy.org/profile/diversen72/
 * Linkedin: https://www.linkedin.com/in/diversen/
 * Født: 25-02-1972
-* Civil status: Kæreste, ingen børn.
+* Civil status: Ugift
 
 ## Erhvervserfaring
 
@@ -58,18 +58,21 @@ MVH Dennis Iversen
 
 Kaggle (ML)
 
-- [https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning](Kaggle: Intermediate Machine Learning)
-- [https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning](Kaggle: Intro to Machine Learning)
+[Intermediate Machine Learning](https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning)
 
-2020: Deeplearning.ai
+[Intro to Machine Learning](https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning)
 
-- [https://www.coursera.org/account/accomplishments/certificate/KPLLNCBGESXM](Natural Language Processing in TensorFlow)
-- [https://www.coursera.org/account/accomplishments/certificate/C5ZA6EZWJTLL](Convolutional Neural Networks in TensorFlow)
-- [https://www.coursera.org/account/accomplishments/certificate/85XNXYDMWMAF](Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning)
+* 2020: Deeplearning.ai
 
-2017: 
+[Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/KPLLNCBGESXM)
 
-- [https://www.coursera.org/account/accomplishments/certificate/J3F7TS824X96](Build a Modern Computer from First Principles)
+[Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/C5ZA6EZWJTLL)
+
+[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/85XNXYDMWMAF)
+
+* 2017: 
+
+[Build a Modern Computer from First Principles](https://www.coursera.org/account/accomplishments/certificate/J3F7TS824X96)
 
 * 2001-2002. Webpublisher (Jensens Bureau). Halvt års kursus i webdesign
 * 1996-2000. Bachelor i Dansk og Medievidenskab
