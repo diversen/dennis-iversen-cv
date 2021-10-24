@@ -36,7 +36,7 @@
 
 Kaggle (ML)
 
-[https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning](Kaggle: Intermediate Machine Learning)
+[Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning)
 [https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning](Kaggle: Intro to Machine Learning)
 
 2020: Deeplearning.ai
