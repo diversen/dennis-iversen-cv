@@ -1,20 +1,24 @@
 # Ansøgning
 
-Mine primære kompetencer er indenfor webudvikling. Jeg er desuden mangeårig bruger af Linux, og jeg har et godt kendskab til Linux som både server og arbejdsstation. 
+Mine primære kompetencer er indenfor webudvikling / App udvikling. Men jeg mener efterhånden at jeg kan udvikle alt. 
 
-Jeg benytter dog primært OSX som arbejdsstation. 
+Indenfor programmering udvikling har jeg primært arbejdet med følgende: 
 
-Indenfor webudvikling har jeg primært arbejdet med følgende stak: PHP, Javascript, SQL (primært MySQL). Desuden har jeg skrevet en del CSS. Jeg har et stort kendskab til diverse biblioteker og frameworks indenfor Javascript, CSS og PHP. 
+PHP, Javascript, SQL, CSS, Python
 
-Jeg har desuden selv lavet en del open source software: 
+Desuden kendskab til en del frameworks: Symfony, Laravel, Django, Angular, Cordova og Ionic (mobile apps)
 
-* https://github.com/diversen/
-* https://packagist.org/users/diversen/packages/ 
+Jeg har lavet en del open source pakker til PHP og javascript: 
+
+* https://packagist.org/users/diversen/packages/
 * https://www.npmjs.com/~diversen
 
-Jeg har udforsket diverse Open-Source systemer, og jeg kan programmere til en del frameworks (jeg har på det seneste benyttet primært Laravel, Zend, Symfony). Jeg har lavet Cordova HTML5 mobil applikationer fra bunden. Indenfor javascript har jeg arbejdet med fx Angular og Ionic. 
+Desuden har jeg en del kode på github. 
 
-Jeg er praktisk anlagt og går efter at få tingene til at virke fejlfrit. Jeg er god til at deltage i større projekter. Jeg har udmærket kommunikative egenskaber. Jeg blev uddannet ved Aalborg Universitet i Dansk og Medievidenskab for en del år siden. Jeg har et godt humør og humor. 
+* https://github.com/diversen
+
+Jeg er praktisk anlagt og går efter at få tingene til at virke fejlfrit. Jeg er god til at deltage i større projekter. Jeg har udmærket kommunikative egenskaber. Jeg blev uddannet ved Aalborg Universitet i Dansk og Medievidenskab for en del år siden. Jeg har som regel et godt humør.
+Jeg er god til at forstå nye ting (sprog eller platforme) - og som det seneste har jeg lært mig selv en del om AI (primært tensorflow og keras). 
 
 Hvis ovenstående egenskaber mangler, så er jeg villig til at møde op til en samtale.
 
@@ -30,16 +34,16 @@ MVH Dennis Iversen
 * By: Horsens
 * Tlf.: 40854015
 * E-mail: dennis.iversen@gmail.com
-* Hjemmeside: https://www.os-cms.net
 * Github: https://github.com/diversen
 * Stackoverflow: https://stackoverflow.com/users/464549/dennis
 * Khan academy: https://www.khanacademy.org/profile/diversen72/
+* Linkedin: https://www.linkedin.com/in/diversen/
 * Født: 25-02-1972
 * Civil status: Kæreste, ingen børn.
 
 ## Erhvervserfaring
 
-* 2016-2019. Sharksmedia (https://sharksmedia.dk)
+* 2016-2021. Sharksmedia (https://sharksmedia.dk)
 * 2015-2016. Infogeist (http://infogeist.dk)
 * 2012-2014. Book-holiday (og sweetpoints)
 * 2010-2012. Århus Kommune. IT administrator ved Børn og Unge Horsensvej
@@ -49,6 +53,23 @@ MVH Dennis Iversen
 * 2003-2004. Selvstændig freelance Programmør for bl.a. https://www.pil.dk
 
 ## Uddannelse
+
+* 2021
+
+Kaggle (ML)
+
+- [https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning](Kaggle: Intermediate Machine Learning)
+- [https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning](Kaggle: Intro to Machine Learning)
+
+2020: Deeplearning.ai
+
+- [https://www.coursera.org/account/accomplishments/certificate/KPLLNCBGESXM](Natural Language Processing in TensorFlow)
+- [https://www.coursera.org/account/accomplishments/certificate/C5ZA6EZWJTLL](Convolutional Neural Networks in TensorFlow)
+- [https://www.coursera.org/account/accomplishments/certificate/85XNXYDMWMAF](Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning)
+
+2017: 
+
+- [https://www.coursera.org/account/accomplishments/certificate/J3F7TS824X96](Build a Modern Computer from First Principles)
 
 * 2001-2002. Webpublisher (Jensens Bureau). Halvt års kursus i webdesign
 * 1996-2000. Bachelor i Dansk og Medievidenskab
@@ -61,18 +82,17 @@ MVH Dennis Iversen
 
 ## IT-egenskaber
 
-* Programmering: PHP5, SQL, HTML, Javascript, CSS (15 år >)
-* Unix, Linux, Systemadministration Unix og Linux (15 år >)
+* Programmering: PHP5, SQL, HTML, Javascript, CSS (20 år >)
+* Unix, Linux, Systemadministration Unix og Linux (20 år >)
 * Versionering: Git (foretrækker jeg), CVS  (15 år > )
-* Moderne JS: NodeJS, NPM, Electron (5 år > )
-* CSS frameworks: UIKit, bootstrap 3 og 4, milligram (5 år > )
-* Desuden en masse andet. 
+* JS: NodeJS, NPM, Electron (10 år > )
+* Python, Mobil-udvikling: (5 år > )
 
 ## Udvalgte IT projekter / Referencer
 
 ### Sharksmedia
 
-For sharksmedia har jeg deltaget i udvikling af en betydelig mængde websites. Jeg har udviklet primært i PHP og Javascript. Jeg har udviklet websites samt mobil applikationer til iPhone og Android (primært vha. Cordava framework). Der er store såvel som små kunder hos sharksmedia. I kan se et mndre udvalg på https://sharksmedia.dk/cases (Det er naturligvis de større kunder I finder her). 
+For sharksmedia har jeg deltaget i udvikling af en betydelig mængde websites. Jeg har udviklet primært i PHP og Javascript. Jeg har udviklet websites samt mobil applikationer til iPhone og Android (primært vha. Cordava framework). Der er store såvel som små kunder hos sharksmedia. I kan se et udvalg på https://sharksmedia.dk/cases (Det er naturligvis de større kunder I finder her). 
 
 ### Egne open source projekter og biblioteker
 
@@ -82,15 +102,12 @@ For sharksmedia har jeg deltaget i udvikling af en betydelig mængde websites. J
 
 ### Infogeist: 
 
-* Smartpub (https://infogeist.smartpub.dk) Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS backup, søgning etc). For at læse om funktionerne i systemet kan man læse brugerguiden: https://infogeist.smartpub.dk/content/export/view/29/html/Smartpub-brugerguide.html
-
-* http://infogeist.dk - et Jekyll-site
+* Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS backup, søgning etc). 
 
 ### book-holiday
  
 * Eksakte og komplekse søgninger af sommerhuse, etablering af API. 
 * Vedligeholdelse af drupal multi-install samt programmering af simple drupal moduler 
-* Programmering af eget framework https://github.com/diversen/coscms
 
 ###  http://www.pil.dk:
 
