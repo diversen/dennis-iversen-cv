@@ -11,9 +11,9 @@
 * Hjemmeside: https://os-cms.net
 * Github: https://github.com/diversen
 * Stackoverflow: https://stackoverflow.com/users/464549/dennis
-* Khan academy (matematik primært): https://www.khanacademy.org/profile/diversen72
+* Khan academy: https://www.khanacademy.org/profile/diversen72
 * Født: 25-02-1972
-* Civil status: Single, ingen børn.
+* Civil status: ugift
 
 ## Erhvervserfaring
 
@@ -30,6 +30,25 @@
 * 2001-2002. Webpublisher (Jensens Bureau). Halvt års kursus i webdesign
 * 1996-2000. Bachelor i Dansk og Medievidenskab
 
+## Kurser
+
+* 2021
+
+Kaggle (ML)
+
+- [https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning](Kaggle: Intermediate Machine Learning)
+- [https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning](Kaggle: Intro to Machine Learning)
+
+2020: Deeplearning.ai
+
+- [https://www.coursera.org/account/accomplishments/certificate/KPLLNCBGESXM](Natural Language Processing in TensorFlow)
+- [https://www.coursera.org/account/accomplishments/certificate/C5ZA6EZWJTLL](Convolutional Neural Networks in TensorFlow)
+- [https://www.coursera.org/account/accomplishments/certificate/85XNXYDMWMAF](Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning)
+
+2017: 
+
+- [https://www.coursera.org/account/accomplishments/certificate/J3F7TS824X96](Build a Modern Computer from First Principles)
+
 ## Sprog
 
 * Flydende i Engelsk og Dansk (skrift og tale)
@@ -37,33 +56,28 @@
 
 ## IT-egenskaber
 
-* Web: PHP, SQL, HTML, Javascript, CSS (10 år >)
-* Systemadministration: Unix og Linux (10 år >)
+* Web: PHP, SQL, HTML, Javascript, CSS (20 år >)
+* Systemadministration: Unix og Linux (20 år >)
 * Versionering: Git (foretrækker jeg), CVS  (10 år > )
-* Browser JS: Javscript, Jquery (10 år > )
-* JS: ES5, ES6, NodeJS, NPM, Electron, Puppeteer, Cordova, lit-html (5 år > )
-* Mobil App udvikling i Cordova (JS) > 3 år
-* CSS frameworks: UIKit, bootstrap, milligram (5 år > )
-* CSS Værktøjer: LESS, SASS, SCSS, CSS4 (2 år > )
-* Netbeans, VS-code (10 år > )
-* Desktop programmer (MS Office, Open Office) (10 år >) 
+* Browser JS: Javscript, Jquery (15 år > )
+* Mobil App udvikling i Cordova, Ionic (JS) > 5 år
+* CSS: LESS, SASS, SCSS, CSS3 (10 år > )
+* Python, Tensorflow, Django (5 år > ) 
 * OS: Linux, OSX, Windows
-* Python, C++: (Hobby: 1 år)
 
 ## Udvalgte IT projekter / Referencer
 
 ### sharksmedia 
 
-
 * PHP og javascript programmering. Mange projekter for større kunder.
-* Web preogramming i PHP og JS samt rene JS apps. 
+* Web programming primært i PHP, Python og JS. 
 * Web-apps og mobil-apps. 
 
 Se https://sharksmedia.dk for et overblik over projekter.
 
 ### infogeist
 
-* smartpub (https://infogeist.smartpub.dk) Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup, søgning etc). For at læse om funktionerne i systemet kan man læse brugerguiden: https://infogeist.smartpub.dk/content/export/view/29/html/Smartpub-brugerguide.html
+* Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup, søgning etc). 
 
 * http://infogeist.dk Jekyll-site
 
@@ -71,7 +85,6 @@ Se https://sharksmedia.dk for et overblik over projekter.
 
 * Eksakte og komplekse søgninger af sommerhuse, etablering af API. 
 * Vedligeholdelse af drupal multi-install samt programmering af simple drupal moduler 
-* Programmering af et framework https://github.com/diversen/coscms 
 
 ### Open source 
 
