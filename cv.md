@@ -37,17 +37,20 @@
 Kaggle (ML)
 
 [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning)
-[Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning)
+
+[Intro to Machine Learning](https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning)
 
 2020: Deeplearning.ai
 
-[https://www.coursera.org/account/accomplishments/certificate/KPLLNCBGESXM](Natural Language Processing in TensorFlow)
-[https://www.coursera.org/account/accomplishments/certificate/C5ZA6EZWJTLL](Convolutional Neural Networks in TensorFlow)
-[https://www.coursera.org/account/accomplishments/certificate/85XNXYDMWMAF](Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning)
+[Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/KPLLNCBGESXM)
+
+[Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/C5ZA6EZWJTLL)
+
+[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/85XNXYDMWMAF)
 
 2017: 
 
-[https://www.coursera.org/account/accomplishments/certificate/J3F7TS824X96](Build a Modern Computer from First Principles)
+[Build a Modern Computer from First Principles](https://www.coursera.org/account/accomplishments/certificate/J3F7TS824X96)
 
 ## Sprog
 
