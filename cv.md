@@ -32,9 +32,7 @@
 
 ## Kurser
 
-* 2021
-
-Kaggle (ML)
+* 2021 Kaggle (ML)
 
 [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning)
 
@@ -48,7 +46,7 @@ Kaggle (ML)
 
 [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/85XNXYDMWMAF)
 
-* 2017: 
+* 2017: Coursera
 
 [Build a Modern Computer from First Principles](https://www.coursera.org/account/accomplishments/certificate/J3F7TS824X96)
 

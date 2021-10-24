@@ -18,7 +18,7 @@ Desuden har jeg en del kode på github.
 * https://github.com/diversen
 
 Jeg er praktisk anlagt og går efter at få tingene til at virke fejlfrit. Jeg er god til at deltage i større projekter. Jeg har udmærket kommunikative egenskaber. Jeg blev uddannet ved Aalborg Universitet i Dansk og Medievidenskab for en del år siden. Jeg har som regel et godt humør.
-Jeg er god til at forstå nye ting (sprog eller platforme) - og som det seneste har jeg lært mig selv en del om AI (primært tensorflow og keras). 
+Jeg er god til at forstå nye ting (sprog eller platforme).
 
 Hvis ovenstående egenskaber mangler, så er jeg villig til at møde op til en samtale.
 
@@ -54,9 +54,7 @@ MVH Dennis Iversen
 
 ## Uddannelse
 
-* 2021
-
-Kaggle (ML)
+* 2021 Kaggle (ML)
 
 [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/diversen/intermediate-machine-learning)
 
@@ -70,7 +68,7 @@ Kaggle (ML)
 
 [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/85XNXYDMWMAF)
 
-* 2017: 
+* 2017: Coursera
 
 [Build a Modern Computer from First Principles](https://www.coursera.org/account/accomplishments/certificate/J3F7TS824X96)
 
