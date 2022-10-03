@@ -43,7 +43,7 @@ MVH Dennis Iversen
 
 ## Erhvervserfaring
 
-* 2016-2021. Sharksmedia (https://sharksmedia.dk)
+* 2016-2022. Sharksmedia (https://sharksmedia.dk)
 * 2015-2016. Infogeist (http://infogeist.dk)
 * 2012-2014. Book-holiday (og sweetpoints)
 * 2010-2012. Århus Kommune. IT administrator ved Børn og Unge Horsensvej
