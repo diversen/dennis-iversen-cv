@@ -8,7 +8,7 @@
 * By: Horsens
 * Tlf.: 40854015
 * E-mail: <dennis.iversen@gmail.com>
-* Hjemmeside: https://os-cms.net
+* Hjemmeside: https://blog.10kilobyte.com/
 * Github: https://github.com/diversen
 * Stackoverflow: https://stackoverflow.com/users/464549/dennis
 * Khan academy: https://www.khanacademy.org/profile/diversen72
