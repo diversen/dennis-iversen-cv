@@ -6,7 +6,7 @@ Indenfor programmering udvikling har jeg primært arbejdet med følgende:
 
 PHP, Javascript, SQL, CSS, Python
 
-Desuden kendskab til en del frameworks: Symfony, Laravel, Django, Angular, Cordova og Ionic (mobile apps)
+Jeg har arbejdet med en del frameworks: Symfony, Laravel, Django, Angular samt Cordova og Ionic (mobile apps)
 
 Jeg har lavet en del open source pakker til PHP og javascript: 
 
