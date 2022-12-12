@@ -10,7 +10,7 @@ Jeg har et solidt kendskab til systemudvikling og programmering, hvor jeg har ar
 
 Som kollega er jeg let at have med at gøre og jeg har en udmærket humoristisk sans. Jeg har et roligt temperament, et godt overblik og arbejder koncentreret.
 
-I  min fritid er jeg interesseret i at læse, *høre podcasts og lydbøger*. Jeg løber også en tur en gang imellem.
+I  min fritid er jeg interesseret i at læse, og jeg hører en del podcasts og lydbøger. Jeg løber også en tur en gang imellem.
 
 ## Stamoplysninger
 
@@ -62,13 +62,13 @@ I  min fritid er jeg interesseret i at læse, *høre podcasts og lydbøger*. Je
 ## Sprog
 
 * Flydende i Engelsk og Dansk (skrift og tale)
-* Forstår Tysk, Svensk og Norsk
+* Forstår det meste Tysk, Svensk og Norsk
 
 ## IT-egenskaber
 
 * Web: PHP, SQL, HTML, Javascript, CSS (20 år >)
 * System Administration: Unix og Linux (20 år >)
-* Versionering: Git, CVS  (10 år > )
+* Versionering: Git, CVS  (10 år > )
 * Browser JS: Javascript, Jquery, Node Js (15 år > )
 * Mobil App udvikling i Cordova, Ionic (JS) > 5 år
 * CSS: LESS, SASS, SCSS, CSS3 (10 år > )
