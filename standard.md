@@ -17,8 +17,7 @@ Desuden har jeg en del kode på github.
 
 * https://github.com/diversen
 
-Jeg er praktisk anlagt og går efter at få tingene til at virke fejlfrit. Jeg er god til at deltage i større projekter. Jeg har udmærket kommunikative egenskaber. Jeg blev uddannet ved Aalborg Universitet i Dansk og Medievidenskab for en del år siden. Jeg har som regel et godt humør.
-Jeg er god til at forstå nye ting (sprog eller platforme).
+Jeg er praktisk anlagt og går efter at få tingene til at virke fejlfrit. Jeg er god til at deltage i større projekter. Jeg har udmærket kommunikative egenskaber. Jeg blev uddannet ved Aalborg Universitet i Dansk og Medievidenskab for en del år siden. Jeg har som regel et godt humør. Jeg er god til at forstå nye ting (sprog eller platforme).
 
 Hvis ovenstående egenskaber mangler, så er jeg villig til at møde op til en samtale.
 

@@ -1,29 +1,38 @@
+---
+mainfont: FreeMono
+---
+
 # CV
+
+## Abstrakt
+
+Jeg har et solidt kendskab til systemudvikling og programmering, hvor jeg har arbejdet med både frontend, backend samt mobile systemer. Jeg er god til at sætte mig ind i større, komplekse systemer. Jeg skriver velorganiseret, letlæselig og veldokumenteret kode. For særlig stabilitet er jeg ivrig tilhænger af tests, fx unit tests.
+
+Som kollega er jeg let at have med at gøre og jeg har en udmærket humoristisk sans. Jeg har et roligt temperament, et godt overblik og arbejder koncentreret.
+
+I  min fritid er jeg interesseret i at læse, *høre podcasts og lydbøger*. Jeg løber også en tur en gang imellem.
 
 ## Stamoplysninger
 
 * Navn: Dennis Iversen
-* Adresse: Tordenskjoldsgade 2, 1th.
-* Postnr: 8700
-* By: Horsens
+* Adresse: Tordenskjoldsgade 2, 1 th. 8700 Horsens.
 * Tlf.: 40854015
 * E-mail: <dennis.iversen@gmail.com>
-* Hjemmeside: https://blog.10kilobyte.com/
-* Github: https://github.com/diversen
-* Stackoverflow: https://stackoverflow.com/users/464549/dennis
-* Khan academy: https://www.khanacademy.org/profile/diversen72
-* Født: 25-02-1972
-* Civil status: ugift
+* Github: <https://github.com/diversen>
+* Facebook: <https://www.facebook.com/dennis.b.iversen>
+* LinkedIn: <https://www.linkedin.com/in/diversen/>
+* Født: 25 februar 1972
+* Civil status: ugift, i forhold
 
 ## Erhvervserfaring
 
-* 2017-2020  Sharksmedia (https://sharksmedia.dk)
-* 2015-2016  Infogeist (http://infogeist.dk)
-* 2012-2014  Book-holiday (og sweetpoints)
+* 2017-2022. [Sharksmedia](https://sharksmedia.dk)
+* 2015-2016. [Infogeist](http://infogeist.dk)
+* 2012-2014. Book-holiday
 * 2010-2012. Århus Kommune. IT administrator ved Børn og Unge Horsensvej
-* 2005-2009. Arbejde ikke relateret til IT (Håndværk og andet)
-* 2004-2005  Arbejde ved webbook
-* 2003-2004. Freelance Programmør for bl.a. http://www.pil.dk
+* 2007-2009. Arbejde ikke relateret til IT (Håndværk og andet)
+* 2004-2006. Arbejde ved webbook
+* 2003-2005. Freelance Programmør for bl.a. [pil.dk](https://www.pil.dk)
 
 ## Uddannelse
 
@@ -58,61 +67,50 @@
 ## IT-egenskaber
 
 * Web: PHP, SQL, HTML, Javascript, CSS (20 år >)
-* Systemadministration: Unix og Linux (20 år >)
-* Versionering: Git (foretrækker jeg), CVS  (10 år > )
-* Browser JS: Javscript, Jquery (15 år > )
+* System Administration: Unix og Linux (20 år >)
+* Versionering: Git, CVS  (10 år > )
+* Browser JS: Javascript, Jquery, Node Js (15 år > )
 * Mobil App udvikling i Cordova, Ionic (JS) > 5 år
 * CSS: LESS, SASS, SCSS, CSS3 (10 år > )
-* Python, Tensorflow, Django (5 år > ) 
+* Python, Tensor Flow, Django (5 år > )
 * OS: Linux, OSX, Windows
 
 ## Udvalgte IT projekter / Referencer
 
-### sharksmedia 
+### sharksmedia
 
-* PHP og javascript programmering. Mange projekter for større kunder.
-* Web programming primært i PHP, Python og JS. 
-* Web-apps og mobil-apps. 
+* Mange projekter for større kunder.
+* Web programming primært i PHP, Python og JS.
+* Web-apps og mobile-apps.
 
-Se https://sharksmedia.dk for et overblik over projekter.
+Se <https://sharksmedia.dk> for et overblik over projekter.
 
 ### infogeist
 
-* Multi-user single-source publicerings-platform. Markdown til e-bøger, PDF, HTML-hjemmesider, MOBI etc.  Bygget i PHP / MySQL og med en multi-platform markdown-editor (UIKit, markdown-it) skrevet i Javascript. Opsat på en Azure cloud server (Apache2, MySQL, PHP, NodeJS, Opsætning af SSL-certifikater,  backup, søgning etc). 
-
-* http://infogeist.dk Jekyll-site
+* Flerbruger publiceringsplatform. Skriv i Markdown og udgiv som e-bog, PDF og HTML. Backend i PHP og MySQL. Frontend markdown-editor skrevet i Javascript. Opsat på en Azure cloud server.
 
 ### book-holiday
 
-* Eksakte og komplekse søgninger af sommerhuse, etablering af API. 
-* Vedligeholdelse af drupal multi-install samt programmering af simple drupal moduler 
+* Eksakte og komplekse søgninger af sommerhuse.
+* Programmering af Drupal moduler
 
-### Open source 
+### Open source
 
 Min github side:
 
-https://github.com/diversen
+<https://github.com/diversen>
 
-Mine npm pakker: 
+Mine npm pakker:
 
-https://www.npmjs.com/~diversen
+<https://www.npmjs.com/~diversen>
 
-Mine php pakker (packagist):
+Mine PHP pakker (packagist):
 
-https://packagist.org/users/diversen/packages/
+<https://packagist.org/users/diversen/packages/>
 
-### Emulering
+Emulering af hack computeren i Javascript:
+(Fuldstændig emulering af CPU, ALU, RAM, ROM, skærm og keyboard i Javascript)
 
-Emulering af hack computeren i Javascript: 
-(Fuldstændg emulering af CPU, ALU, RAM, ROM, skærm og keyboard i Javascript)
+<https://github.com/diversen/hack-emulator-js>
 
-https://github.com/diversen/hack-emulator-js
-
-Man kan tage et spil 'pong'
-
-### Euler project
-
-Matematiske og logiske problem-stillinger indenfor især tal-teori:
-(Javascript / Python)
-
-https://github.com/diversen/project-euler
+![](./larson.jpg "")
